@@ -14,5 +14,7 @@ Data is collected, wrapped as a LoRa packet and pushed to the LoRa Radio for trn
 
 The AES key can be chosen beforehand and assigned to both LoRa Bi-Directional Gateways in order to decrypt messages received.
 
+Application for this includes: Private LoRa networks(Low-Level Encryption), Swarm Robotics, Security for IoT, Autonomous Drone composer
+
 Author: Alexandros Antoniades
 Date: 14/03/2019
